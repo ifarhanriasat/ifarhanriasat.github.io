@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
 <h3 align="center">I am a passionate blockchain developer from UAE, with almost 6 years of experience of software development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifarhanriasat&label=Profile%20views&color=0e75b6&style=flat" alt="ifarhanriasat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifarhanriasat" alt="ifarhanriasat" /></a> </p>
-
 - 🔭 I’m currently working on **Blockchain and Web3 Projects.**
 
 - 🌱 I’m currently learning **Rust programming and new blockchain protocols.**
