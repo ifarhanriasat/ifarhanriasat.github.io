@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<h5 align="center">I am a passionate blockchain developer from UAE, with almost 6 years of experience of software development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!</h5>
+<h4 align="center">I am a passionate blockchain developer from UAE, with almost 6 years of experience of software development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!</h4>
 
 - 🔭 I’m currently working on **Blockchain and Web3 Projects.**
 
