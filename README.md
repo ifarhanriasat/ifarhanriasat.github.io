@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<h4 align="center">I am a passionate blockchain developer from UAE, with almost 6 years of experience of software development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!</h4>
+<h4 align="center">I am a passionate software developer from UAE, with 6+ years development experience, i am enthusiastic about blockchain, web3 and AI. I'm looking forward to learn something new everyday and contribute to the industry!</h4> 
+
 
 - 🔭 I’m currently working on **Blockchain and Web3 Projects.**
 
 - 🌱 I’m currently learning **Rust programming and new blockchain protocols.**
-
-- 👨‍💻 All of my projects are available at [ifarhanriasat.github.io](ifarhanriasat.github.io)
 
 - 💬 Ask me about **Blockchain, Metaverse,Web3, AI, startups.**
 
